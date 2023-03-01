@@ -8,9 +8,9 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by Melika Haqshenas
+- 👩‍💻Developed by Melika Haqshenas
 
-- Created - 2023-3-1
+- 🕰Created - 2023-3-1
 
 - Technologies Used - Html , css
 
