@@ -18,4 +18,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/melika.haqshenas_web) and [linkedin](https://www.linkedin.com/in/Melika Haqshenas)
+- How to reach me : with my [instagram](https://www.instagram.com/melika.haqshenas_web) and [linkedin](https://www.linkedin.com/in/melika-haqshenas-web/)
